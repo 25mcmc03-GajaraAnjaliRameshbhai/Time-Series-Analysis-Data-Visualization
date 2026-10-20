@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">TiVy — Time Series Analysis and Visualization</title>
+<desc id="desc">A dark navy banner with colorful abstract time-series lines and the subtitle Research, Pattern Discovery, Visual Analytics.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1024"/><stop offset="1" stop-color="#142b4d"/></linearGradient>
+  <linearGradient id="line1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+  <linearGradient id="line2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+<g opacity=".13" stroke="#b6c8e8" stroke-width="1"><path d="M620 40H1160M620 90H1160M620 140H1160M620 190H1160M620 240H1160M620 290H1160"/><path d="M660 25V295M730 25V295M800 25V295M870 25V295M940 25V295M1010 25V295M1080 25V295M1150 25V295"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"><path d="M640 190 C675 190 680 130 715 145 S765 245 800 195 S850 95 885 125 S930 225 965 175 S1015 85 1050 120 S1100 225 1150 135" stroke="url(#line1)" stroke-width="5"/><path d="M640 230 C675 220 680 255 715 230 S765 170 800 210 S850 260 885 220 S930 150 965 205 S1015 255 1050 220 S1100 160 1150 195" stroke="url(#line2)" stroke-width="4" opacity=".95"/></g>
+<g fill="#eaf2ff" font-family="Inter,Segoe UI,Arial,sans-serif"><text x="64" y="112" font-size="24" letter-spacing="5" fill="#7dd3fc" font-weight="600">RESEARCH PROJECT</text><text x="60" y="174" font-size="56" font-weight="750">TiVy</text><text x="64" y="211" font-size="21" fill="#d6e2f4">Time Series Analysis &amp; Visualization</text><text x="64" y="260" font-size="16" fill="#9fb6d7">Pattern discovery  •  Visual analytics  •  Research exploration</text></g>
+<circle cx="1114" cy="58" r="5" fill="#22d3ee"/><circle cx="1142" cy="58" r="5" fill="#34d399"/><circle cx="1170" cy="58" r="5" fill="#a78bfa"/>
+</svg>
